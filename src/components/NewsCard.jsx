@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NewsCard = (props) => {
-  const { title, description, imageUrl, publishedAt, key , url } = props;
+  const { title, description, imageUrl, publishedAt , url } = props;
   const slicedTitle = typeof title === 'string' && title.length > 0 ? title.slice(0, 60) + '...' : title;
   const slicedDescription = typeof description === 'string' && description.length > 0 ? description.slice(0, 100) + '...' : description;
 

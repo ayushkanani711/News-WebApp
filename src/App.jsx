@@ -8,7 +8,6 @@ import LoadingBar from 'react-top-loading-bar'
 const App = () => {
   const [progress, setProgress] = useState(0)
   const apikey = import.meta.env.VITE_API_KEY;
-  console.log("apikey is :" + apikey);
 
   return (
     <Router>

@@ -22,8 +22,6 @@ const NewsPage = (props) => {
           props.setProgress(100); 
         }
       setIsLoading(false);
-      console.log(props.apikey);
-      console.log("data: " + data);
     };
     fetchInfo();
   }, [props.ctgy , page ]);
