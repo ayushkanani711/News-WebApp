@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Samantha Subin, Brian Evans",
+      "title": "Stock market today: Live updates - CNBC",
+      "description": "The tech-heavy Nasdaq notched its seventh-straight positive session for the first time since January.",
+      "url": "https://www.cnbc.com/2023/11/06/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105955659-1668091179057-105955659-15599354913242019-06-04t203428z_1664613502_rc1260573e20_rtrmadp_3_usa-stocks.jpg?v=1685720390&w=1920&h=1080",
+      "publishedAt": "2023-11-07T16:17:00Z",
+      "content": "The S&amp;P 500 rose Tuesday, putting the broad-based index on pace for its longest winning streak in roughly two years as Wall Street looked to build on November's rally. \r\nThe S&amp;P added 0.35%, … [+1930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Traders Climbing Wall of Worry After Furious Rally: Markets Wrap - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/asian-shares-dip-wall-street-232656256.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T15:34:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ines Ferré",
+      "title": "Oil prices sink on 'demand destruction' worries, weak China exports - Yahoo Finance",
+      "description": "Demand destruction and weak Chinese export data has put pressure on oil prices, says one analyst.",
+      "url": "https://finance.yahoo.com/news/oil-prices-sink-on-demand-destruction-worries-weak-china-exports-152159904.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.MaTwsshFlw8H9wwhqufdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-06/95e17c00-ba1a-11ea-b2ff-057d9267ce9b",
+      "publishedAt": "2023-11-07T15:21:59Z",
+      "content": "Oil prices fell roughly 3% on Tuesday after Chinas exports dropped for a sixth straight month, underscoring a global demand slowdown.\r\nOctober exports for the world's largest oil consumer fell 6.4% y… [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "WeWork forced to file for bankruptcy in the US - BBC.com",
+      "description": "The shared office giant, once seen as the future of the workplace, has been plagued by problems.",
+      "url": "https://www.bbc.com/news/business-67316150",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D645/production/_131635845_wework_index_1.jpg",
+      "publishedAt": "2023-11-07T15:09:16Z",
+      "content": "WeWork, the shared office firm that was once valued at $47bn (£38bn), has been forced to file for bankruptcy in the US.\r\nThe decision follows the meteoric rise - and fall - of a company which was onc… [+5060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Philip van Doorn",
+      "title": "Earnings-season winners: 20 companies that have grown sales while improving profit margins - MarketWatch",
+      "description": "These earnings-season winners not only increase sales, they show pricing power for their products and services",
+      "url": "https://www.marketwatch.com/story/earnings-season-winners-20-companies-that-have-grown-sales-while-improving-profit-margins-7d4f6532",
+      "urlToImage": "https://images.mktw.net/im-882559/social",
+      "publishedAt": "2023-11-07T15:02:00Z",
+      "content": "Earnings season is a time when investors like to see a beat and raise pattern. That is, companies report sales and earnings that surprise the market by coming in ahead of analysts estimates. Then the… [+13676 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Juliana Kaplan, Cork Gaines",
+      "title": "HENRYs: High earners feeling economic pinch - Business Insider",
+      "description": "Americans who are high earners but not rich yet are feeling the economic burn.",
+      "url": "https://www.businessinsider.com/henrys-six-figure-income-inflation-childcare-economic-pinch-2023-11",
+      "urlToImage": "https://i.insider.com/654a588eb788914e55519314?width=1200&format=jpeg",
+      "publishedAt": "2023-11-07T14:22:00Z",
+      "content": "It's a bad time to be almost rich\r\n no, really.\r\nThat's because the rollercoaster recovery from the pandemic-induced recession has left people who are high-earning, but not rich yet known as HENRYs w… [+6424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Fed’s Goolsbee says 'golden path' of a huge drop in inflation without a recession is still possible - CNBC",
+      "description": "Chicago Fed President Austan Goolsbee said a soft landing is still on the table as the Fed seeks to combat inflation without hurting the economy significantly.",
+      "url": "https://www.cnbc.com/2023/11/07/feds-goolsbee-says-golden-path-of-a-huge-drop-in-inflation-without-a-recession-is-still-possible.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104147466-IMG_8920.JPG?v=1681481251&w=1920&h=1080",
+      "publishedAt": "2023-11-07T14:10:51Z",
+      "content": "Chicago Federal Reserve President Austan Goolsbee said Tuesday a soft landing is still on the table as the central bank seeks to combat inflation without hurting the economy significantly.\r\n\"Because … [+1960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "DDOG Stock: Datadog Earnings Top Estimates; Software Stock Surges - Investor's Business Daily",
+      "description": "Datadog earnings and revenue handily beat Q3 estimates.",
+      "url": "https://www.investors.com/news/technology/ddog-stock-datadog-earnings-news-q32023/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/11/stock-Datadog-01-shutter.jpg",
+      "publishedAt": "2023-11-07T14:00:00Z",
+      "content": "Datadog (DDOG) on Tuesday reported September-quarter earnings and revenue that handily beat consensus estimates amid lowered expectations. DDOG stock soared on the news.\r\nXFor the quarter ending Sept… [+1829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Dallas Morning News"
+      },
+      "author": "Maria Halkias",
+      "title": "Dallas shoplifting up 73% among highest in US cities - The Dallas Morning News",
+      "description": "Shoplifting in Dallas was flat throughout the pandemic but started to spike late last year and was up in the first six month of 2023, according to the Council...",
+      "url": "https://www.dallasnews.com/business/retail/2023/11/07/shoplifting-up-73-in-dallas-as-retailers-rush-to-put-merchandise-out-of-reach/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/KGBY7IT5B5GP5DYGDC6O5ROII4.jpg?auth=53a61cbfe4f09dba9e92cf2278b796feb06b65a48556da87156560ca4aacb446&height=467&width=830&smart=true",
+      "publishedAt": "2023-11-07T13:57:19Z",
+      "content": "The shopping experience in Dallas is starting to change as retail theft increased 73% through the first six months of this year, according to a report released Tuesday.\r\nDallas and Los Angeles, where… [+6130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Uber CEO Dara Khosrowshahi on Q3 earnings, inflation impact and freight business - CNBC Television",
+      "description": "Uber CEO Dara Khosrowshahi joins 'Squawk Box' to discuss the company's quarterly earnings results, which missed analysts’ expectations on the top and bottom ...",
+      "url": "https://www.youtube.com/watch?v=rGtcLhXNrFk",
+      "urlToImage": "https://i.ytimg.com/vi/rGtcLhXNrFk/maxresdefault.jpg",
+      "publishedAt": "2023-11-07T13:53:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Elon didn't just break Twitter, Twitter broke Elon Musk, says 'Breaking Twitter' author Ben Mezrich - CNBC Television",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=VdqVVHfmf3c",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T13:40:12Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Axios",
+      "title": "The Ray Dalio experience, per new book: Crying employees, strippers, filthy poems — not investing - Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzExLzA3L3JheS1kYWxpby1pbnZlc3RpbmctYm9vay1jcnlpbmctZW1wbG95ZWVzLXN0cmlwcGVycy1tZW50YWwtaGVhbHRo0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T13:35:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Noah Sheidlower, Kelsey Neubauer",
+      "title": "Where to retire: 11 best cities in the US for cost of living, health - Business Insider",
+      "description": "Places that are cheaper to live in, levy lower taxes, and make residents happier topped the ranking of best spots to retire.",
+      "url": "https://www.businessinsider.com/best-cities-to-retire-in-us-2023-11",
+      "urlToImage": "https://i.insider.com/65493ebd36d588dc55cba1da?width=1200&format=jpeg",
+      "publishedAt": "2023-11-07T13:15:00Z",
+      "content": "Imagine the ideal place to retire: Palm trees, swimming pools, and colorful cocktails come to mind.\r\nOr just think of Harrisburg, Pennsylvania, with its green-domed capitol building and an average an… [+2107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Melissa Repko",
+      "title": "Food-delivery startup Wonder Group gets $100 million investment from Nestle - CNBC",
+      "description": "The startup Wonder Group is making a push to sell its proprietary kitchen equipment to other businesses, such as airports and sports arenas.",
+      "url": "https://www.cnbc.com/2023/11/07/wonder-group-food-delivery-startup-gets-100-million-nestle-investment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329997-1699358339946-Copy_of_2_List.png?v=1699358510&w=1920&h=1080",
+      "publishedAt": "2023-11-07T13:00:01Z",
+      "content": "Food-delivery company Wonder Group has gotten a cash infusion from Nestle, as the startup looks to sell high-tech kitchen equipment and prepared ingredients to businesses such as hotels, hospitals an… [+5075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "INSIDER"
+      },
+      "author": "Lindsay Dodgson",
+      "title": "Why Millennials, Gen Z Don't Want to Be Managers - Insider",
+      "description": "Kyyah Abdul, a career TikToker, laid out the reasons so many young workers may no longer want managerial roles, saying \"the pay is not worth the work that you're doing.\"",
+      "url": "https://www.insider.com/why-millennials-and-gen-z-dont-want-to-be-managers-2023-11",
+      "urlToImage": "https://i.insider.com/654a08bb36d588dc55cbf938?width=1200&format=jpeg",
+      "publishedAt": "2023-11-07T12:40:00Z",
+      "content": "Millennials and Gen Zers don't seem to want to be managers anymore, and a career influencer has explained why that might be.\r\nA recent survey of 1,000 Americans by the workplace-analytics-software co… [+2932 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Foreign investment in China goes negative for the first time in decades - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2023/11/07/china-economy-negative-foreign-investments",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T12:36:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Richard Pollina",
+      "title": "Three popular dog foods recalled due to potential Salmonella contamination - New York Post ",
+      "description": "“Do not sell or donate the recalled products,” the FDA stated.",
+      "url": "https://nypost.com/2023/11/07/news/three-popular-dog-foods-recalled-due-to-potential-salmonella-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-ehnnbm6cl-1699352199964.jpg?quality=75&strip=all&1699334343&w=1024",
+      "publishedAt": "2023-11-07T12:08:00Z",
+      "content": "Three popular dog food products have been yanked from shelves in retail stores across America over fear they were contaminated with salmonella.\r\nMid America Pet Food has voluntarily pulled Victor Sup… [+3266 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bloomberg",
+      "title": "After SBF Conviction Investors Target Tom Brady, Larry David, Celebrities - Bloomberg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTExLTA3L2FmdGVyLXNiZi1jb252aWN0aW9uLWludmVzdG9ycy10YXJnZXQtdG9tLWJyYWR5LWxhcnJ5LWRhdmlkLWNlbGVicml0aWVz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T12:02:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "A wall of debt rolling over: Here’s what’s scaring Bridgewater’s co-CIO - MarketWatch",
+      "description": null,
+      "url": "https://families.google.com/service-restricted",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07T11:52:00Z",
+      "content": "This service is unavailable for Google Workspace for Education users marked as under the age of 18 by their administrator. Learn more\r\nIf you have any further questions about your access, reach out t… [+37 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jeffrey Clark",
+      "title": "Restaurants shut down 'every week' on once booming San Francisco street: 'Drug abuse and vandalism' - Fox News",
+      "description": "Restaurant owners in San Francisco are saying that crime, drug abuse and government programs that hurt the customer experience are damaging their business.",
+      "url": "https://www.foxnews.com/media/restaurants-shut-down-every-week-once-booming-san-francisco-street-drug-abuse-vandalism",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/San-Francisco_Bridge.jpg",
+      "publishedAt": "2023-11-07T11:00:00Z",
+      "content": "Restaurant owners on Valencia Street at one time one of the most popular streets in San Francisco are saying that crime, drug abuse and low tourism are killing business, according to a recent article… [+3241 chars]"
+    }
+  ]
+}
